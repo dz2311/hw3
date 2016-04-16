@@ -10,14 +10,14 @@ Downloaded from sketchup
 # Image Targets
 see "Targets.pdf"
 
-＃Description:
+# Description:
 
 The image “Tarmac” is used as the original image target.
-＃1. Selection:
+# 1. Selection:
 I use the touch screen to select objects. After clicking an object, its color will turn
 into yellow. If you click another object, the object that was selected before will be
 deselected. Also, you can use two fingers to click that object to deselect it.
-＃2. Translation:
+# 2. Translation:
 ①In the original image Target: click the object first, then click the cube on the tool bar.
 Then the object will do relative movement with the toolbar. If you translate the tool
 bar steadily, the object will be translated steadily, too. And it can be translated to
